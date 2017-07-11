@@ -10,6 +10,11 @@ namespace accessModifierPractice
     {
         static void Main(string[] args)
         {
+            Boat theBoat = new Boat();
+
+            theBoat.numOfPass = 345;
+
+            
         }
     }
 }
